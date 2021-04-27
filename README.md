@@ -35,7 +35,7 @@
 
 <img align="left" alt="MySQL" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/919/919836.svg?token=exp=1619554501~hmac=e190870c97ad99a4ce14318332d4fd7e" />
 
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Git" width="26px" src="https://pics.freeicons.io/uploads/icons/png/9374299221540553610-512.png" />
 
 <img align="left" alt="GitHub" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/733/733553.svg?token=exp=1619554267~hmac=5f43c358ff8a5afe1e8442b15b42c6b4" />
 
