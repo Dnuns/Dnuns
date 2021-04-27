@@ -2,7 +2,7 @@
 
 ## I'm a Developer!!
 
-- 🔭 I just finished my bootcamp @ Academia de Código [website]!
+- 🔭 I just finished my bootcamp @ Academia de Código (March/2021) [website]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to learn && eat
