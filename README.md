@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Dnuns | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Dnuns | LinkedIn" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1619554180~hmac=602759dc6f20785589ef2820505e17b2" />][linkedin]
 
 <br />
 
