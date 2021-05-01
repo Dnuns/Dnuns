@@ -8,7 +8,6 @@
 - ⚡ Fun fact: I love to learn && eat
 
 ### Connect with me:
-<a  target="_blank" href=[linkedin]>Wikipedia<img alt="linkedin" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1619554180~hmac=602759dc6f20785589ef2820505e17b2"></a>
 [<img align="left" alt="Dnuns | LinkedIn" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1619554180~hmac=602759dc6f20785589ef2820505e17b2"/>][linkedin]
 [<img align="left" alt="Dnuns | Portifolio" width="22px" src="https://pics.freeicons.io/uploads/icons/png/8705987771530273516-512.png" target="_blank"/>][portifolio]
 
