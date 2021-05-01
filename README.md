@@ -35,7 +35,7 @@
 
 <img align="left" alt="Git" width="26px" src="https://pics.freeicons.io/uploads/icons/png/9374299221540553610-512.png" />
 
-<img align="left" alt="GitHub" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/733/733553.svg?token=exp=1619554267~hmac=5f43c358ff8a5afe1e8442b15b42c6b4" />
+<img align="left" alt="GitHub" width="26px" src="https://pics.freeicons.io/uploads/icons/png/13702699181561032680-512.png" />
 
 <br/>
 
