@@ -25,15 +25,15 @@
 
 <img align="left" alt="React" width="26px" src="https://pics.freeicons.io/uploads/icons/png/20167174151551942641-512.png" />
 
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Node.js" width="26px" src="https://pics.freeicons.io/uploads/icons/png/15056343581551942278-512.png" />
 
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Python" width="26px" src="https://pics.freeicons.io/uploads/icons/png/12785093741551942290-512.png" />
 
 <img align="left" alt="Java" width="26px" src="https://pics.freeicons.io/uploads/icons/png/378554371540553613-512.png" />
 
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
-<img align="left" alt="MySQL" width="26px" src="https://pics.freeicons.io/uploads/icons/png/19218518301553750371-512.png" />
+<img align="left" alt="MySQL" width="26px" src="https://pics.freeicons.io/uploads/icons/png/4943187881553750385-512.png" />
 
 <img align="left" alt="Git" width="26px" src="https://pics.freeicons.io/uploads/icons/png/9374299221540553610-512.png" />
 
