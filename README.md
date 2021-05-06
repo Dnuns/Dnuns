@@ -25,7 +25,7 @@
 
 <img align="left" alt="React" width="26px" src="https://pics.freeicons.io/uploads/icons/png/20167174151551942641-512.png" />
 
-<img align="left" alt="Node.js" width="26px" src="https://pics.freeicons.io/uploads/icons/png/15056343581551942278-512.png" />
+<img align="left" alt="Node.js" width="26px" src="https://pics.freeicons.io/uploads/icons/png/8954758561551942278-512.png" />
 
 <img align="left" alt="Python" width="26px" src="https://pics.freeicons.io/uploads/icons/png/12785093741551942290-512.png" />
 
