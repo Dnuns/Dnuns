@@ -29,11 +29,11 @@
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
-<img align="left" alt="Java" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/226/226777.svg?token=exp=1619554446~hmac=b259ef952a9a0ef9ea11f5018f4a2ca4" />
+<img align="left" alt="Java" width="26px" src="https://pics.freeicons.io/uploads/icons/png/378554371540553613-512.png" />
 
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
-<img align="left" alt="MySQL" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/919/919836.svg?token=exp=1619554501~hmac=e190870c97ad99a4ce14318332d4fd7e" />
+<img align="left" alt="MySQL" width="26px" src="https://pics.freeicons.io/uploads/icons/png/19218518301553750371-512.png" />
 
 <img align="left" alt="Git" width="26px" src="https://pics.freeicons.io/uploads/icons/png/9374299221540553610-512.png" />
 
