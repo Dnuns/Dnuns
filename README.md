@@ -51,7 +51,7 @@
 ----
 <summary>:zap: GitHub Stats</summary>
 
-<img align="left" alt="David's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Dnuns&show_icons=true&hide_border=true" />
+<img align="left" alt="David's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Dnuns" />
 
 
 [website]: https://www.codeforall.cv
