@@ -35,6 +35,8 @@
 
 <img align="left" alt="MySQL" width="26px" src="https://pics.freeicons.io/uploads/icons/png/4943187881553750385-512.png" />
 
+<img align="left" alt="PostgreSQL" width="26px" src="https://freeicons.io/vector-and-svg-logos-icons-14/postgresql-icon-8877" />
+
 <img align="left" alt="Git" width="26px" src="https://pics.freeicons.io/uploads/icons/png/9374299221540553610-512.png" />
 
 <img align="left" alt="GitHub" width="26px" src="https://pics.freeicons.io/uploads/icons/png/13702699181561032680-512.png" />
