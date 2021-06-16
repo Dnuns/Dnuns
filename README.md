@@ -58,4 +58,4 @@
 
 [website]: https://www.codeforall.cv
 [linkedin]: https://linkedin.com/in/davsnuns {:target="_blank"}
-[portifolio]: (https://dnuns.github.io/portifolio) :target="_blank"
+[portifolio]: (https://dnuns.github.io/portifolio):target="_blank"
