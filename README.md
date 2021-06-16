@@ -9,7 +9,7 @@
 
 ### Connect with me:
 [<img align="left" alt="Dnuns | LinkedIn" width="22px" src="https://pics.freeicons.io/uploads/icons/png/6769799911555590084-512.png"/>][linkedin]
-[<img align="left" alt="Dnuns | Portifolio" width="22px" src="https://pics.freeicons.io/uploads/icons/png/12189949021537355864-512.png" target="_blank"/>][portifolio]
+[<img align="left" alt="Dnuns | Portifolio" width="22px" src="https://pics.freeicons.io/uploads/icons/png/12189949021537355864-512.png"/>][portifolio]{:target="_blank"}
 
 <br />
 
