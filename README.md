@@ -1,6 +1,6 @@
 # Hi there, I'm David! 👋
 
-## I'm a junior developer from Cape Verde <img valign="center" alt="Cape Verde flag" width="26px" src="https://image.flaticon.com/icons/png/512/206/206814.png" />.
+## I'm a junior developer from Cape Verde <img valign="middle" alt="Cape Verde flag" width="26px" src="https://image.flaticon.com/icons/png/512/206/206814.png" />.
 
 - 🔭 I just finished my bootcamp @ Academia de Código (April/2021) [website]!
 - 🌱 I’m currently learning everything 🤣
