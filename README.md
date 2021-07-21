@@ -12,8 +12,6 @@
 [<img align="left" alt="Dnuns | Portifolio" width="22px" src="https://pics.freeicons.io/uploads/icons/png/12189949021537355864-512.png"/>][portifolio]
 
 <br/>
-!(https://komarev.com/ghpvc/?username=Dnuns&color=blueviolet)
-<br/>
 
 ### Languages and Tools:
 
