@@ -40,7 +40,7 @@
 ----
 <summary>:zap: Top Languages</summary>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dnuns&layout=compact)](https://github.com/Dnuns/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dnuns&layout=compact&langs_count=10)](https://github.com/Dnuns/github-readme-stats)
 
 <br>
 
