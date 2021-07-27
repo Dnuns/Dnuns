@@ -7,7 +7,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to learn && eat
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dnuns&repo=github-readme-stats)](https://github.com/Dnuns/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dnuns&repo=Dnuns)](https://github.com/Dnuns/Dnuns)
 
 ### Connect with me:
 [<img align="left" alt="Dnuns | LinkedIn" width="22px" src="https://pics.freeicons.io/uploads/icons/png/6769799911555590084-512.png"/>][linkedin]
