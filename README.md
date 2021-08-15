@@ -7,8 +7,6 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to learn && eat
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dnuns&label=Profile%20views&color=0e75b6&style=flat" alt="Dnuns" /> </p>
-
 ### Connect with me:
 [<img align="left" alt="Dnuns | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/145/145807.png"/>][linkedin]
 [<img align="left" alt="Dnuns | Portifolio" width="22px" src="https://pics.freeicons.io/uploads/icons/png/12189949021537355864-512.png"/>][portifolio]
