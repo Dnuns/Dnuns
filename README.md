@@ -8,8 +8,8 @@
 - ⚡ Fun fact: I love to learn && eat
 
 ### Connect with me:
-[<img align="left" alt="Dnuns | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/145/145807.png"/>][linkedin]
-[<img align="left" alt="Dnuns | Portifolio" width="22px" src="https://pics.freeicons.io/uploads/icons/png/12189949021537355864-512.png"/>][portifolio]
+[<img align="left" alt="Dnuns | LinkedIn" width="28px" src="https://image.flaticon.com/icons/png/512/145/145807.png"/>][linkedin]
+[<img align="left" alt="Dnuns | Portifolio" width="28px" src="https://pics.freeicons.io/uploads/icons/png/12189949021537355864-512.png"/>][portifolio]
 
 <br/>
 
