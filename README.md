@@ -2,7 +2,7 @@
 
 ## I'm a junior developer from Cape Verde. <img alt="Cape Verde flag" width="26px" src="https://image.flaticon.com/icons/png/512/206/206814.png" />
 
-- 🔭 I just finished my bootcamp @ Academia de Código (April/2021) [website]!
+- 🔭 I finished my bootcamp @ Academia de Código (April/2021) [website]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to learn && eat
