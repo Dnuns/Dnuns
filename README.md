@@ -37,8 +37,6 @@
 
 <img align="left" alt="Git" width="28px" src="https://pics.freeicons.io/uploads/icons/png/9374299221540553610-512.png" />
 
-<img align="left" alt="GitHub" width="28px" src="https://pics.freeicons.io/uploads/icons/png/13702699181561032680-512.png" />
-
 <br/>
 
 ----
