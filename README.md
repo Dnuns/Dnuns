@@ -27,6 +27,10 @@
 
 <img align="left" alt="Java" width="28px" src="https://image.flaticon.com/icons/png/512/226/226777.png"/>
 
+<img alt="React.js" width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919851.png" />
+
+<img alt="Spring" width="86px" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" />
+
 <img align="left" alt="MySQL" width="28px" src="https://pics.freeicons.io/uploads/icons/png/4943187881553750385-512.png" />
 
 <img align="left" alt="PostgreSQL" width="28px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" />
