@@ -1,6 +1,6 @@
 # Hi there, I'm David! 👋
 
-## I'm a junior developer/>
+## <I'm a junior developer_>
 
 - 🔭 I finished my bootcamp @ Academia de Código (April/2021) [website]!
 - 🌱 I’m currently learning everything 🤣
