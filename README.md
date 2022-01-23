@@ -5,7 +5,6 @@
 - 🔭 I finished my bootcamp @ Academia de Código (April/2021) [website]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to learn && eat
 
 ### Connect with me:
 [<img align="left" alt="Dnuns | LinkedIn" width="28px" src="https://image.flaticon.com/icons/png/512/145/145807.png"/>][linkedin]
