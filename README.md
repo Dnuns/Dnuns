@@ -9,6 +9,7 @@
 ### Connect with me:
 
 [<img align="left" alt="Dnuns | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>][linkedin]
+[<img align="left" alt="Dnuns | Portfolio" src="https://img.shields.io/static/v1?label=<Portfolio>&message=<Down>&color=<blue>" target="_blank"/>][portfolio]
 [<img align="left" alt="Dnuns | Portfolio" width="28px" src="https://pics.freeicons.io/uploads/icons/png/12189949021537355864-512.png"/>][portifolio]
 
 <br/>
@@ -54,4 +55,4 @@
 
 [website]: https://www.codeforall.cv
 [linkedin]: https://linkedin.com/in/davsnuns
-[portifolio]: https://dnuns.github.io/portfolio
+[portfolio]: https://dnuns.github.io/portfolio
