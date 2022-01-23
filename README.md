@@ -7,7 +7,8 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
-[<img align="left" alt="Dnuns | LinkedIn" width="28px" src="https://image.flaticon.com/icons/png/512/145/145807.png"/>][linkedin]
+
+[<img align="left" alt="Dnuns | LinkedIn" width="28px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>][linkedin]
 [<img align="left" alt="Dnuns | Portifolio" width="28px" src="https://pics.freeicons.io/uploads/icons/png/12189949021537355864-512.png"/>][portifolio]
 
 <br/>
