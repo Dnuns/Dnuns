@@ -9,8 +9,6 @@
 ### Connect with me:
 
 [<img align="left" alt="Dnuns | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>][linkedin]
-
-[<img align="left" alt="Dnuns | Portfolio" src="https://img.shields.io/website?down_color=dark%20blue&up_color=red&up_message=portfolio&url=https%3A%2F%2Fdnuns.github.io%2Fportfolio" target="_blank"/>][linkedin]
 [<img align="left" alt="Dnuns | Portfolio" width="28px" src="https://pics.freeicons.io/uploads/icons/png/12189949021537355864-512.png"/>][portifolio]
 
 <br/>
