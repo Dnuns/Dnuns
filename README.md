@@ -1,4 +1,4 @@
-# Hi there, I'm David! 👋
+# Hi there, I'm David! <img alt="hi" width="150px" src="https://tenor.com/view/waving-hi-hello-emoji-wave-gif-11366012" />
 
 ## <I'm a junior developer_>
 
