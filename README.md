@@ -22,11 +22,11 @@
 
 <img align="left" alt="JavaScript" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
-<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
+<img  align="left" alt="Java" width="28px" src="https://image.flaticon.com/icons/png/512/226/226777.png"/>
 
 <img align="left" alt="Python" width="28px" src="https://pics.freeicons.io/uploads/icons/png/12785093741551942290-512.png" />
 
-<img  align="left" alt="Java" width="28px" src="https://image.flaticon.com/icons/png/512/226/226777.png"/>
+<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 
 <img align="left" alt="React.js" width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919851.png" />
 
