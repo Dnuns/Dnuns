@@ -1,4 +1,4 @@
-# Hi there, I'm David! <img alt="hi" width="20px" src="https://c.tenor.com/yWSRmymbuBkAAAAC/waving-hi.gif" />
+# Hi there, I'm David! <img alt="hi" width="30px" src="https://c.tenor.com/yWSRmymbuBkAAAAC/waving-hi.gif" />
 
 ## <I'm a junior developer_>
 
