@@ -1,7 +1,5 @@
 <img alt="hi" width="18" src="https://c.tenor.com/yWSRmymbuBkAAAAC/waving-hi.gif" /> Hi there, I'm David!
 
-<I'm a junior developer_>
-
 - 🔭 I finished my bootcamp @ Academia de Código (April/2021) [website]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 Goals: Contribute more to Open Source projects
