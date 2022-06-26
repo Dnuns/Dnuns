@@ -4,7 +4,7 @@
 
 - 🔭 I finished my bootcamp @ Academia de Código (April/2021) [website]!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
