@@ -13,9 +13,8 @@
 [<img align="left" alt="Dnuns | Portfolio" width="130px" height="28px" src="https://img.shields.io/badge/Portfolio-Down-red" target="_blank"/>][portfolio]
 
 <br/>
-<br/>
 
-<summary>:zap: Top Languages</summary>
+### Top Languages
 
 <br/>
 
