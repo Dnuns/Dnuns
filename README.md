@@ -15,8 +15,6 @@
 
 [<img align="left" alt="Dnuns | Portfolio" width="130px" height="28px" src="https://img.shields.io/badge/Portfolio-Down-red" target="_blank"/>][portfolio]
 
-<br/>
-
 ### Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dnuns&layout=compact&langs_count=10)](https://github.com/Dnuns/github-readme-stats)
