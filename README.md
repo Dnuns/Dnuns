@@ -21,12 +21,6 @@
 
 <br>
 
-----
-<summary>:zap: GitHub Stats</summary>
-
-<img align="left" alt="David's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Dnuns" />
-
-
 [website]: https://www.codeforall.cv
 [linkedin]: https://linkedin.com/in/davsnuns
 [portfolio]: https://dnuns.github.io/portfolio
