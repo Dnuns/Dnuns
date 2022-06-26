@@ -1,4 +1,4 @@
-<img alt="hi" width="23 src="https://c.tenor.com/yWSRmymbuBkAAAAC/waving-hi.gif" /> Hi there, I'm David.
+<img alt="hi" width="23" src="https://c.tenor.com/yWSRmymbuBkAAAAC/waving-hi.gif" /> Hi there, I'm David.
 
 - 🔭 I finished my bootcamp @ Academia de Código (April/2021) [website]!
 - 🌱 I’m currently learning everything 🤣
