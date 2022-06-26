@@ -1,4 +1,4 @@
-<img alt="hi" width="15" src="https://c.tenor.com/yWSRmymbuBkAAAAC/waving-hi.gif" /> Hi there, I'm David!
+<img alt="hi" width="18" src="https://c.tenor.com/yWSRmymbuBkAAAAC/waving-hi.gif" /> Hi there, I'm David!
 
 <I'm a junior developer_>
 
