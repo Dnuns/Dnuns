@@ -13,7 +13,7 @@ Connect with me
 <br/>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dnuns&layout=compact&langs_count=14)](https://github.com/Dnuns/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dnuns&layout=compact&langs_count=16)](https://github.com/Dnuns/github-readme-stats)
 
 <br>
 
