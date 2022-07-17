@@ -6,8 +6,12 @@
 
 Connect with me
 
-[<img style="font-size:10px;" align="left" alt="Dnuns | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>][linkedin]
-[<img align="left"  style="font-size:10px;" alt="Dnuns | Portfolio" width="130px" height="26px" src="https://img.shields.io/badge/Portfolio-Down-red" target="_blank"/>][portfolio]
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
 <br/>
 <br/>
