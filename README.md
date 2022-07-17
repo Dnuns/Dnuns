@@ -12,10 +12,8 @@ Connect with me
 <br/>
 <br/>
 <br/>
-
 <img  height="215px" align="left" alt="David's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Dnuns" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dnuns&layout=compact&langs_count=10)](https://github.com/Dnuns/github-readme-stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dnuns&layout=compact&langs_count=10)](https://github.com/Dnuns/github-readme-stats)
 
 <br>
 
