@@ -16,8 +16,6 @@ Connect with me
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dnuns&theme=dracula&layout=compact&langs_count=10)](https://github.com/Dnuns/github-readme-stats)
 
-<br>
-
 [website]: https://www.codeforall.cv
 [linkedin]: https://linkedin.com/in/davsnuns
 [portfolio]: https://dnuns.github.io/portfolio
