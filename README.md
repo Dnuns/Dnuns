@@ -8,8 +8,7 @@ Connect with me
 
 ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dnuns&show_icons=true&theme=radical)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dnuns" />
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dnuns&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
