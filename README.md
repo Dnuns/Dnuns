@@ -6,7 +6,7 @@
 
 Connect with me
 
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dnuns&show_icons=true&theme=radical)
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dnuns&show_icons=true&theme=radical&layout=compact)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dnuns&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
