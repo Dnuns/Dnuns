@@ -6,9 +6,9 @@
 
 Connect with me
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dnuns&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dnuns&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dnuns&show_icons=true&theme=radical&layout=compact)
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dnuns&show_icons=true&theme=dracula&layout=compact)
 
 <br>
 
