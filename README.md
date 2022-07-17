@@ -6,7 +6,7 @@
 
 Connect with me
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dnuns&layout=compact&theme=dracula&langs_count=10&hide=shell,sh)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dnuns&layout=compact&theme=dracula&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dnuns&show_icons=true&theme=dracula&layout=compact)
 
