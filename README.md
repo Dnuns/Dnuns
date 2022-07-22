@@ -9,7 +9,10 @@ Connect with me
 [<img align="left" alt="Dnuns | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>][linkedin]
 
 [<img align="left" alt="Dnuns | Portfolio" width="130px" height="27px" src="https://img.shields.io/badge/Portfolio-Down-red" target="_blank"/>][portfolio]
-  
+
+</br>
+</br>
+
 <p align="center"> 
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Dnuns&show_icons=true&theme=dracula&layout=compact&langs_count=10" /> 
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dnuns&layout=compact&theme=dracula" /> 
