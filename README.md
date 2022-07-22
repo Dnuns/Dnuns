@@ -10,9 +10,6 @@ Connect with me
 
 [<img align="left" alt="Dnuns | Portfolio" width="130px" height="27px" src="https://img.shields.io/badge/Portfolio-Down-red" target="_blank"/>][portfolio]
 
-</br>
-</br>
-
 <hr>
 
 <p align="center"> 
