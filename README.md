@@ -14,7 +14,7 @@ Connect with me
 
 </p>
   
-<p align="rigth"> 
+<p align="center"> 
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Dnuns&show_icons=true&theme=dracula&layout=compact&langs_count=10" /> 
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dnuns&layout=compact&theme=dracula" /> 
 </p>
